@@ -157,7 +157,7 @@ address {
 }
 
 header, footer{
-  background-color: #2b2b2b;
+  background-color: #202322;;
   display:flex;
   justify-content: center;
   align-items: center;
@@ -546,6 +546,10 @@ input[type=button] {
     h3 {
         font-size: 1.5em;
         line-height: 1.25;
+    }
+
+    ul{
+      padding-left: 0;
     }
 
     /***** HOME *****/
